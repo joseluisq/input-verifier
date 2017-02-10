@@ -29,37 +29,37 @@ console.log(verifier.email('info@company.com'))
 
 All verification functions return a boolean value.
 
-### empty(x)
+#### empty(x)
 
-### email(x)
+#### email(x)
 
-### url(x)
+#### url(x)
 
-### number(x)
+#### number(x)
 
-### digits(x)
+#### digits(x)
 
-### decimal(x)
+#### decimal(x)
 
-### negative(x)
+#### negative(x)
 
-### alphanumeric(x)
+#### alphanumeric(x)
 
-### alphabetic(x)
+#### alphabetic(x)
 
-### major(x1, x2)
+#### major(x1, x2)
 
-### minor(x1, x2)
+#### minor(x1, x2)
 
-### max(x, limit)
+#### max(x, limit)
 
-### min(x, limit)
+#### min(x, limit)
 
-### equalTo(x1, x2)
+#### equalTo(x1, x2)
 
-### maxlength(x, len)
+#### maxlength(x, len)
 
-### minlength(x, len)
+#### minlength(x, len)
 
 ## License
 MIT license
