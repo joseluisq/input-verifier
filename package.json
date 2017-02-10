@@ -1,6 +1,6 @@
 {
   "name": "input-verifier",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Some useful functions to check common data input.",
   "author": "Jose Luis Quintana",
   "license": "MIT",
