@@ -54,12 +54,10 @@
     ]
   },
   "keywords": [
-    "copy",
-    "remove",
-    "random",
-    "temporary",
-    "temp",
-    "directory",
-    "file"
+    "validation",
+    "input",
+    "data",
+    "utils",
+    "funtions"
   ]
 }
