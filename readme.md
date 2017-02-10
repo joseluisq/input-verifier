@@ -17,6 +17,9 @@ npm install input-verifier --save-dev
 ```js
 const verifier = require('input-verifier')
 
+console.log(verifier.empty(' '))
+// true
+
 console.log(verifier.url('https://company.com'))
 // true
 
