@@ -1,5 +1,7 @@
 # input-verifier [![Build Status](https://travis-ci.org/joseluisq/input-verifier.svg?branch=master)](https://travis-ci.org/joseluisq/input-verifier) [![Coverage Status](https://coveralls.io/repos/github/joseluisq/input-verifier/badge.svg?branch=master)](https://coveralls.io/github/joseluisq/input-verifier?branch=master) [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joseluisq/input-verifier.svg)](https://greenkeeper.io/)
+
 > Some useful functions to validate common data input.
 
 ## Prerequisites
